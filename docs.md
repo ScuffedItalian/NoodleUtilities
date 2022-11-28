@@ -35,4 +35,27 @@ noteTrack(0, 96, "TrackWillNotesYEE")
 ```
 * assigns all notes between beat 0 and 96 to the track "TrackWillNotesYEE"
 
+# Requirments / Suggestions
+
+## Require Noodle
+```powershell
+reqNoodle() //This makes noodle extensions a map requirment!
+```
+
+## Require Chroma
+```powershell
+reqChroma() //Makes Chroma a requirment
+```
+
+## Suggest Chroma
+```powershell
+suggestChroma() //This makes chroma a suggestion
+```
+
+## Set Warnings
+```powershell
+setWarning("This map has lots of flashing lights!") //Custom warnings! 
+```
+
+
 
