@@ -3,7 +3,7 @@ import { arcsBetween, chainsBetween, Difficulty } from "https://deno.land/x/rema
 const map = new Difficulty("ExpertPlusLawless", "ExpertPlusStandard");
 
 // SCRIPT
-
+console.log("e")
 //Logs the maps stats :]
 
 function chainsTrack( startC: number, endC: number, trackCName: string){
