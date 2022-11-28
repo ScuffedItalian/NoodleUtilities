@@ -6,7 +6,7 @@
 ## Tools
 This repo contains utilities for both [HeckLIB](https://github.com/Heck-Library/HeckLib) & [Remapper](https://github.com/Swifter1243/ReMapper) (Possibly more comming)
 
-### Noodle Extensions Tools
+## Noodle Extensions Tools
 * [How-To-Noodle](https://github.com/StormPacer/How-to-Noodle) by StormPacer
 * [Heck doc](https://github.com/Aeroluna/Heck) by Aeroluna
 
@@ -25,4 +25,7 @@ This repo contains utilities for both [HeckLIB](https://github.com/Heck-Library/
 * [StormPacer's Maps](https://github.com/StormPacer/Noodle-Maps)
 * [My Map's](https://github.com/ScuffedItalian/ScuffedNoodleMaps)
 * [Splashcard's Maps](https://github.com/Splashcard04/Map-Scripts)
+
+# Lets get started!
+To get started, head to the wiki here
 
