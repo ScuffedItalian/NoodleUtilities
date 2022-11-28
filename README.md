@@ -27,5 +27,5 @@ This repo contains utilities for both [HeckLIB](https://github.com/Heck-Library/
 * [Splashcard's Maps](https://github.com/Splashcard04/Map-Scripts)
 
 # Lets get started!
-To get started, head to the wiki here
+To get started, head to the wiki [here](https://github.com/ScuffedItalian/NoodleUtilities/wiki)
 
