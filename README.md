@@ -21,8 +21,8 @@ This repo contains utilities for both [HeckLIB](https://github.com/Heck-Library/
 * [HeckLibWiki](https://github.com/Heck-Library/HeckLib/wiki)
 
 ## Script Repos
-[Swifter's Maps](https://github.com/Swifter1243/MapScripts)
-[StormPacer's Maps](https://github.com/StormPacer/Noodle-Maps)
-[My Map's](https://github.com/ScuffedItalian/ScuffedNoodleMaps)
-[Splashcard's Maps](https://github.com/Splashcard04/Map-Scripts)
+* [Swifter's Maps](https://github.com/Swifter1243/MapScripts)
+* [StormPacer's Maps](https://github.com/StormPacer/Noodle-Maps)
+* [My Map's](https://github.com/ScuffedItalian/ScuffedNoodleMaps)
+* [Splashcard's Maps](https://github.com/Splashcard04/Map-Scripts)
 
