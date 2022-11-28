@@ -21,4 +21,18 @@ bombTrack(0, 69, "BombsTrack")
 ```
 * assigns all bombs between beat 0 and 69 to the track "BombsTrack"
 
+## Walls track
+Wall track creation:
+```powershell
+wallTrack(0, 69, "TrackWithWall")
+```
+* assigns all walls between beat 0 and 69 to the track "TrackWithWall"
+
+## Note track
+Note track creation:
+```powershell
+noteTrack(0, 96, "TrackWillNotesYEE")
+```
+* assigns all notes between beat 0 and 96 to the track "TrackWillNotesYEE"
+
 
